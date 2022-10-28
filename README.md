@@ -11,7 +11,7 @@
 ### _Frontend_
 - HTML, CSS, JS
 - FrameWork: Bootstrap, JQuery
-### _Collbration_
+### _Collabration_
  - Git and Github
 ### Backend
 - NodeJS
