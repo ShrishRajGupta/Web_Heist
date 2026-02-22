@@ -13,6 +13,7 @@
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "express": "^4.18.2",
+    "fast-xml-parser": "^5.3.7",
     "hbs": "^4.2.0",
     "mongoose": "^6.11.4"
   },
